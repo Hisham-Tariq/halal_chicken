@@ -16,3 +16,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('client.views.home');
 });
+
+
+Route::get('/menu', function () {
+    return view('client.views.menu');
+});
+
