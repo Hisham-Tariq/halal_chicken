@@ -274,7 +274,7 @@
     <!--==============================
     Counter Area
     ==============================-->
-    <div class="space-bottom">
+    <div class="space-bottom " style="background-color: rgba(0, 0, 0, 0.6)">
         <div class="container">
             <div class="row gy-4">
                 <div class="col-xl-4 col-md-6">

@@ -79,7 +79,7 @@ Mobile Menu
         </div>
         <div class="as-mobile-menu" style="background-color: rgba(0, 0, 0, 0.9)">
             <ul>
-                <li><a href="/">Home</a></li>
+                <li><a href="{{url('/')}}">Home</a></li>
                 
                 <li class="menu-item-has-children">
                     <a href="#">Menu</a>
@@ -103,9 +103,9 @@ Mobile Menu
                         <li><a href="blog-details.html">Blog Details</a></li>
                     </ul>
                 </li>
-                <li><a href="about.html">About Us</a></li>
+                <li><a href="{{url('/about-us')}}">About Us</a></li>
                 <li>
-                    <a href="contact.html">Contact Us</a>
+                    <a href="{{url('/contact-us')}}">Contact Us</a>
                 </li>
             </ul>
         </div>
@@ -120,7 +120,7 @@ Header Area
             <div class="header-top-inner" >
                 <div class="row justify-content-center justify-content-md-between align-items-center gy-2">
                     <div class="col-auto d-none d-md-block">
-                        <p class="header-notice">Welcome to Pizzer Fast Foods & Restaurant</p>
+                        <p class="header-notice">Welcome to Halal Chicken Fast Foods & Restaurant</p>
                     </div>
                     <div class="col-auto">
                         <div class="header-links">
@@ -134,7 +134,7 @@ Header Area
                                     </div>
                                 </li>
                                 <li>
-                                    <a href="contact.html"><i class="far fa-user"></i> Login/Register</a>
+                                    <a href="{{url('/contact-us')}}"><i class="far fa-user"></i> Login/Register</a>
                                 </li>
                             </ul>
                         </div>
@@ -178,9 +178,9 @@ Header Area
                                         <li><a href="blog-details.html">Blog Details</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="about.html">About Us</a></li>
+                                <li><a href="{{url('/about-us')}}">About Us</a></li>
                                 <li>
-                                    <a href="contact.html">Contact Us</a>
+                                    <a href="{{url('/contact-us')}}">Contact Us</a>
                                 </li>
                             </ul>
                         </nav>
@@ -194,7 +194,7 @@ Header Area
                             <i class="far fa-cart-shopping"></i>
                             <span class="badge">5</span>
                         </button>
-                        <a href="contact.html" class="as-btn">Order Now</a>
+                        <a href="{{url('/contact-us')}}" class="as-btn">Order Now</a>
                         <div class="link-box">
                             <div class="link-box_icon">
                                 <i class="fa-light fa-phone"></i>
