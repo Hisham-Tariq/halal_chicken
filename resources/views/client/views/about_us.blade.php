@@ -5,19 +5,21 @@
     <!--==============================
     Breadcumb
 ============================== -->
-<div class="breadcumb-wrapper " data-bg-src="assets/img/breadcumb/breadcumb-bg.jpg">
-    <div class="container z-index-common">
-        <div class="breadcumb-content">
-            <h1 class="breadcumb-title">About <span class="font-style text-theme2">Us</span></h1>
-            <ul class="breadcumb-menu">
-                <li><a href="index.html">Home</a></li>
-                <li>About Us</li>
-            </ul>
+<div  data-bg-src="assets/halalchickenimages/banners/banner1.jpg">
+    <div class="breadcumb-wrapper " style="background-color: rgba(0, 0, 0, 0.8)">
+        <div class="container z-index-common">
+            <div class="breadcumb-content">
+                <h1 class="breadcumb-title text-white">About <span class="font-style text-theme2">Us</span></h1>
+                <ul class="breadcumb-menu text-white" style="color: white !important;">
+                    <li><a href="index.html" class="text-white">Home</a></li>
+                    <li class="text-white">About Us</li>
+                </ul>
+            </div>
         </div>
     </div>
 </div>
 
-<div class="space position-relative">
+<div class="space position-relative" style="background-color: rgba(0, 0, 0, 0.8)">
     <div class="about-line" data-bg-src="assets/img/shape/about_line.png"></div>
     <!--==============================
 Feature Area  
@@ -70,7 +72,7 @@ About Area
                 <div class="row">
                     <div class="col-xl-6 col-xxl-7 pe-xxl-5">
                         <div class="text-end">
-                            <img src="assets/img/normal/about_1_1.png" alt="About">
+                            <img src="assets/halalchickenimages/banners/banner.png" alt="About">
                         </div>
                     </div>
                     <div class="col-xl-6 col-xxl-5 col-lg-9 mt-35 mt-xl-0">
@@ -112,7 +114,7 @@ About Area
                     </div>
                 </div>
             </div>
-            <div class="shape-mockup about-shape1" data-top="0%" data-left="0"><img src="assets/img/shape/bg_shape_1.png" alt="shapes"></div>
+            <div class="shape-mockup about-shape1" data-top="0%" data-left="0"><img src="assets/halalchickenimages/banners/bannerbg.png" alt="shapes"></div>
         </div>
     </div>
     <!--==============================
@@ -124,10 +126,10 @@ About Area
                 <div class="col-xl-7 ps-xxl-5">
                     <div class="img-box2 style2">
                         <div class="img1">
-                            <img src="assets/img/normal/about_2_1.png" alt="About">
+                            <img src="assets/halalchickenimages/banners/about_2_1.png" alt="About">
                         </div>
                         <div class="shape1">
-                            <img src="assets/img/normal/about_2_2.png" alt="About">
+                            <img src="assets/halalchickenimages/banners/about_2_2.png" alt="About">
                         </div>
                         <div class="discount_style1" data-bg-src="assets/img/shape/discount_bg_1.svg">
                             <h4 class="percentage">
@@ -162,50 +164,52 @@ About Area
             </div>
         </div>
         <div class="shape-mockup about-shape3" data-bottom="120px" data-left="0"><img src="assets/img/shape/bg_shape_5.png" alt="shapes"></div>
-        <div class="shape-mockup leaf jump" data-top="0%" data-left="5%"><img src="assets/img/shape/chocolate_1.png" alt="shape"></div>
-        <div class="shape-mockup leaf jump-reverse d-none d-xl-block" data-bottom="10%" data-right="5%"><img src="assets/img/shape/pot_1.png" alt="shape"></div>
+        <div class="shape-mockup leaf jump" data-top="0%" data-left="5%"><img src="assets/halalchickenimages/banners/redchill.png" alt="shape"></div>
+        <div class="shape-mockup leaf jump-reverse d-none d-xl-block" data-bottom="10%" data-right="5%"><img src="assets/halalchickenimages/banners/redchill.png" alt="shape"></div>
     </div>
 </div>
 
 <!--==============================
 Feature Area  
 ==============================-->
-<section class="space bg-title" data-bg-src="assets/img/bg/feature_bg_2.png">
-    <div class="container">
-        <div class="title-area text-center">
-            <span class="sub-title">
-                <img class="icon" src="assets/img/icon/title_icon.svg" alt="icon">
-                Our Strength
-            </span>
-            <h2 class="sec-title text-white">Our Most Loved <span class="font-style text-theme">Foods</span></h2>
-            <p class="sec-text ms-auto me-auto text-white">Objectively pontificate quality models before intuitive information. Dramatically recaptiualize multifunctional materials.</p>
-        </div>
-        <div class="feature-grid-wrap">
-            <div class="feature-grid">
-                <div class="feature-grid_img">
-                    <img src="assets/img/icon/feature_4_1.svg" alt="Food">
-                </div>
-                <div>
-                    <h3 class="feature-grid_title box-title text-white">Fast Foods</h3>
-                    <p class="feature-grid_text text-border">Professionally fabricate e-business vortals and impactful core competencie. Compellingly impact technically sound</p>
-                </div>
+<section class="bg-title" data-bg-src="assets/halalchickenimages/banners/aboutbanner2.jpg">
+    <div class="space " style="background-color: rgba(0, 0, 0, 0.8)">
+        <div class="container">
+            <div class="title-area text-center">
+                <span class="sub-title">
+                    <img class="icon" src="assets/img/icon/title_icon.svg" alt="icon">
+                    Our Strength
+                </span>
+                <h2 class="sec-title text-white">Our Most Loved <span class="font-style text-theme">Foods</span></h2>
+                <p class="sec-text ms-auto me-auto text-white">Objectively pontificate quality models before intuitive information. Dramatically recaptiualize multifunctional materials.</p>
             </div>
-            <div class="feature-grid">
-                <div class="feature-grid_img">
-                    <img src="assets/img/icon/feature_4_2.svg" alt="Food">
+            <div class="feature-grid-wrap">
+                <div class="feature-grid">
+                    <div class="feature-grid_img">
+                        <img src="assets/img/icon/feature_4_1.svg" alt="Food">
+                    </div>
+                    <div>
+                        <h3 class="feature-grid_title box-title text-white">Fast Foods</h3>
+                        <p class="feature-grid_text text-border">Professionally fabricate e-business vortals and impactful core competencie. Compellingly impact technically sound</p>
+                    </div>
                 </div>
-                <div>
-                    <h3 class="feature-grid_title box-title text-white">Healthy Foods</h3>
-                    <p class="feature-grid_text text-border">Professionally fabricate e-business vortals and impactful core competencie. Compellingly impact technically sound</p>
+                <div class="feature-grid">
+                    <div class="feature-grid_img">
+                        <img src="assets/img/icon/feature_4_2.svg" alt="Food">
+                    </div>
+                    <div>
+                        <h3 class="feature-grid_title box-title text-white">Healthy Foods</h3>
+                        <p class="feature-grid_text text-border">Professionally fabricate e-business vortals and impactful core competencie. Compellingly impact technically sound</p>
+                    </div>
                 </div>
-            </div>
-            <div class="feature-grid">
-                <div class="feature-grid_img">
-                    <img src="assets/img/icon/feature_4_3.svg" alt="Food">
-                </div>
-                <div>
-                    <h3 class="feature-grid_title box-title text-white">Hygienic Foods</h3>
-                    <p class="feature-grid_text text-border">Professionally fabricate e-business vortals and impactful core competencie. Compellingly impact technically sound</p>
+                <div class="feature-grid">
+                    <div class="feature-grid_img">
+                        <img src="assets/img/icon/feature_4_3.svg" alt="Food">
+                    </div>
+                    <div>
+                        <h3 class="feature-grid_title box-title text-white">Hygienic Foods</h3>
+                        <p class="feature-grid_text text-border">Professionally fabricate e-business vortals and impactful core competencie. Compellingly impact technically sound</p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -214,7 +218,7 @@ Feature Area
 <!--==============================
 Team Area  
 ==============================-->
-<section class="z-index-common space-top">
+<section class="z-index-common space-top" style="background-color: rgba(0, 0, 0, 0.8)">
     <div class="container" data-pos-space="#testiSec1" data-sec-space="margin-bottom" data-margin-bottom="170px">
         <div class="title-area text-center">
             <span class="sub-title">
@@ -231,7 +235,7 @@ Team Area
                     <div class="team-img">
                         <img src="assets/img/team/team_1_1.jpg" alt="Team">
                     </div>
-                    <div class="team-content">
+                    <div class="team-content bg-dark">
                         <h3 class="team-title box-title"><a href="team-details.html">David Latham</a></h3>
                         <span class="team-desig">Chief Executive</span>
                         <div class="as-social">
@@ -250,7 +254,7 @@ Team Area
                     <div class="team-img">
                         <img src="assets/img/team/team_1_2.jpg" alt="Team">
                     </div>
-                    <div class="team-content">
+                    <div class="team-content bg-dark" >
                         <h3 class="team-title box-title"><a href="team-details.html">Mary Jenica</a></h3>
                         <span class="team-desig">Chief Chef</span>
                         <div class="as-social">
@@ -269,7 +273,7 @@ Team Area
                     <div class="team-img">
                         <img src="assets/img/team/team_1_3.jpg" alt="Team">
                     </div>
-                    <div class="team-content">
+                    <div class="team-content bg-dark" >
                         <h3 class="team-title box-title"><a href="team-details.html">Joseph Carter</a></h3>
                         <span class="team-desig">Senior Chef</span>
                         <div class="as-social">
@@ -288,7 +292,7 @@ Team Area
                     <div class="team-img">
                         <img src="assets/img/team/team_1_4.jpg" alt="Team">
                     </div>
-                    <div class="team-content">
+                    <div class="team-content bg-dark" >
                         <h3 class="team-title box-title"><a href="team-details.html">Anjelina Rosee</a></h3>
                         <span class="team-desig">Senior Chef</span>
                         <div class="as-social">
@@ -307,7 +311,7 @@ Team Area
                     <div class="team-img">
                         <img src="assets/img/team/team_1_5.jpg" alt="Team">
                     </div>
-                    <div class="team-content">
+                    <div class="team-content bg-dark">
                         <h3 class="team-title box-title"><a href="team-details.html">Rubina Jenny</a></h3>
                         <span class="team-desig">Senior Chef</span>
                         <div class="as-social">
@@ -322,12 +326,13 @@ Team Area
 
         </div>
     </div>
-    <div class="shape-mockup chili jump-reverse" data-top="0%" data-right="0"><img src="assets/img/shape/red_chili.png" alt="shape"></div>
+    <div class="shape-mockup chili jump-reverse" data-top="0%" data-right="0"><img src="assets/halalchickenimages/banners/red_chili.png" alt="shape"></div>
 </section>
 <!--==============================
 Testimonial Area  
 ==============================-->
-<section class="space bg-smoke2" id="testiSec1" data-bg-src="assets/img/bg/testi_bg_1.png">
+<section id="testiSec1" data-bg-src="assets/halalchickenimages/banners/banner7.jpg">
+  <div class="space" style="background-color: rgba(0, 0, 0, 0.8)">
     <div class="container">
         <div class="row justify-content-lg-between justify-content-center align-items-end">
             <div class="col-lg-9 mb-n2 mb-lg-0">
@@ -343,21 +348,24 @@ Testimonial Area
             <div class="col-auto">
                 <div class="sec-btn">
                     <div class="icon-box">
-                        <button data-slick-prev="#testiSlide1" class="slick-arrow default"><i class="far fa-arrow-left"></i></button>
-                        <button data-slick-next="#testiSlide1" class="slick-arrow default"><i class="far fa-arrow-right"></i></button>
+                        <button data-slick-prev="#testiSlide1" class="slick-arrow default bg-dark"><i class="far fa-arrow-left"></i></button>
+                        <button data-slick-next="#testiSlide1" class="slick-arrow default bg-dark"><i class="far fa-arrow-right"></i></button>
                     </div>
                 </div>
             </div>
         </div> <!-- / Title row -->
         <div class="row slider-shadow as-carousel" id="testiSlide1" data-slide-show="3" data-lg-slide-show="2" data-md-slide-show="1">
             <div class="col-xl-4 col-lg-6">
-                <div class="testi-box">
+                <div class="testi-box bg-dark">
                     <div class="testi-box_icon">
                         <img src="assets/img/icon/quote_left.svg" alt="quote">
                     </div>
-                    <p class="testi-box_text">“Synergistically strategize interdependent ROI through distinctive markets. Credibly restore one-to-one through.”</p>
+                    <p class="testi-box_text">“Synergistically strategize interdependent ROI through distinctive
+                        markets. Credibly restore one-to-one through.”</p>
                     <div class="testi-box_review">
-                        <i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i>
+                        <i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i
+                            class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i
+                            class="fa-sharp fa-solid fa-star"></i>
                     </div>
                     <div class="testi-box_profile">
                         <div class="testi-box_avater">
@@ -369,19 +377,22 @@ Testimonial Area
                         </div>
                     </div>
                     <div class="testi-box_img">
-                        <img src="assets/img/testimonial/review_1_1.png" alt="Reveiw Image">
+                        <img style="width: 150px; height:150px;" src="assets/halalchickenimages/Pizza/pizza2.png" alt="Reveiw Image">
                     </div>
                 </div>
             </div>
 
             <div class="col-xl-4 col-lg-6">
-                <div class="testi-box">
+                <div class="testi-box bg-dark">
                     <div class="testi-box_icon">
                         <img src="assets/img/icon/quote_left.svg" alt="quote">
                     </div>
-                    <p class="testi-box_text">“Synergistically strategize interdependent ROI through distinctive markets. Credibly restore one-to-one through.”</p>
+                    <p class="testi-box_text">“Synergistically strategize interdependent ROI through distinctive
+                        markets. Credibly restore one-to-one through.”</p>
                     <div class="testi-box_review">
-                        <i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i>
+                        <i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i
+                            class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i
+                            class="fa-sharp fa-solid fa-star"></i>
                     </div>
                     <div class="testi-box_profile">
                         <div class="testi-box_avater">
@@ -393,19 +404,22 @@ Testimonial Area
                         </div>
                     </div>
                     <div class="testi-box_img">
-                        <img src="assets/img/testimonial/review_1_2.png" alt="Reveiw Image">
+                        <img style="width: 150px; height:150px;" src="assets/halalchickenimages/Burgers/FilleBurger.png" alt="Reveiw Image">
                     </div>
                 </div>
             </div>
 
             <div class="col-xl-4 col-lg-6">
-                <div class="testi-box">
+                <div class="testi-box bg-dark">
                     <div class="testi-box_icon">
                         <img src="assets/img/icon/quote_left.svg" alt="quote">
                     </div>
-                    <p class="testi-box_text">“Synergistically strategize interdependent ROI through distinctive markets. Credibly restore one-to-one through.”</p>
+                    <p class="testi-box_text">“Synergistically strategize interdependent ROI through distinctive
+                        markets. Credibly restore one-to-one through.”</p>
                     <div class="testi-box_review">
-                        <i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i>
+                        <i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i
+                            class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i
+                            class="fa-sharp fa-solid fa-star"></i>
                     </div>
                     <div class="testi-box_profile">
                         <div class="testi-box_avater">
@@ -417,19 +431,22 @@ Testimonial Area
                         </div>
                     </div>
                     <div class="testi-box_img">
-                        <img src="assets/img/testimonial/review_1_3.png" alt="Reveiw Image">
+                        <img style="width: 150px; height:150px;" src="assets/halalchickenimages/Wraps/wrap.png" alt="Reveiw Image">
                     </div>
                 </div>
             </div>
 
             <div class="col-xl-4 col-lg-6">
-                <div class="testi-box">
+                <div class="testi-box bg-dark">
                     <div class="testi-box_icon">
                         <img src="assets/img/icon/quote_left.svg" alt="quote">
                     </div>
-                    <p class="testi-box_text">“Synergistically strategize interdependent ROI through distinctive markets. Credibly restore one-to-one through.”</p>
+                    <p class="testi-box_text">“Synergistically strategize interdependent ROI through distinctive
+                        markets. Credibly restore one-to-one through.”</p>
                     <div class="testi-box_review">
-                        <i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i>
+                        <i class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i
+                            class="fa-sharp fa-solid fa-star"></i><i class="fa-sharp fa-solid fa-star"></i><i
+                            class="fa-sharp fa-solid fa-star"></i>
                     </div>
                     <div class="testi-box_profile">
                         <div class="testi-box_avater">
@@ -441,15 +458,16 @@ Testimonial Area
                         </div>
                     </div>
                     <div class="testi-box_img">
-                        <img src="assets/img/testimonial/review_1_4.png" alt="Reveiw Image">
+                        <img style="width: 150px; height:150px;"  src="assets/halalchickenimages/Wraps/veggiewrap.png" alt="Reveiw Image">
                     </div>
                 </div>
             </div>
 
         </div>
     </div>
-    <div class="shape-mockup leaf jump-reverse" data-top="0%" data-left="0"><img src="assets/img/shape/leaf_1.png" alt="shape"></div>
-    <div class="shape-mockup leaf jump" data-bottom="0%" data-right="0"><img src="assets/img/shape/leaf_2.png" alt="shape"></div>
+    <div class="shape-mockup leaf jump-reverse" data-top="0%" data-left="0"><img src="assets/halalchickenimages/banners/leaf_1.png" alt="shape"></div>
+    <div class="shape-mockup leaf jump" data-bottom="0%" data-right="0"><img src="assets/halalchickenimages/banners/leaf_1.png" alt="shape"></div>
+  </div>
 </section>
 
 @stop
