@@ -81,20 +81,10 @@ Mobile Menu
             <ul>
                 <li><a href="{{url('/')}}">Home</a></li>
                 
-                <li class="menu-item-has-children">
-                    <a href="#">Menu</a>
-                    <ul class="sub-menu">
-                        <li><a href="menu-fast.html">Fast Food Menu</a></li>
-                        <li><a href="menu-rest.html">Restaurant Food Menu</a></li>
-                    </ul>
+                <li>
+                    <a href="{{url('/menu')}}">Menu</a>   
                 </li>
-                <li class="menu-item-has-children">
-                    <a href="#">Shop</a>
-                    <ul class="sub-menu">
-                        <li><a href="shop.html">Shop</a></li>
-                        <li><a href="shop-details.html">Shop Details</a></li>
-                    </ul>
-                </li>
+                <li><a href="{{url('/shop')}}">Shop</a></li>
                 
                 <li class="menu-item-has-children">
                     <a href="#">Blog</a>
@@ -156,26 +146,12 @@ Header Area
                             <ul>
                                 <li><a href="/">Home</a></li>
                                 
-                                <li class="menu-item-has-children">
-                                    <a href="#">Menu</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="menu-fast.html">Fast Food Menu</a></li>
-                                        <li><a href="menu-rest.html">Restaurant Food Menu</a></li>
-                                    </ul>
-                                </li>
-                                
+                                <li><a href="{{url('/menu')}}">Menu</a></li>
                                 <li class="menu-item-has-children">
                                     <a href="#">Shop</a>
                                     <ul class="sub-menu">
-                                        <li><a href="shop.html">Shop</a></li>
-                                        <li><a href="shop-details.html">Shop Details</a></li>
-                                    </ul>
-                                </li>
-                                <li class="menu-item-has-children">
-                                    <a href="#">Blog</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="blog.html">Blog</a></li>
-                                        <li><a href="blog-details.html">Blog Details</a></li>
+                                        <li><a href="{{url('/shop')}}">Shop</a></li>
+                                        <li><a href="{{url('/shop-detail')}}">Shop Details</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="{{url('/about-us')}}">About Us</a></li>

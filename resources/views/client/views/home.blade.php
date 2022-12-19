@@ -207,7 +207,7 @@
                         <a href="shop.html" class="category-list_name text-uppercase">tabbouleh</a>
                     </div>
                 </div>
-            </div>about
+            </div>
         </div>
     </div>
     <!--==============================

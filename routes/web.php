@@ -28,6 +28,35 @@ Route::get('/contact-us', function () {
 });
 
 
+Route::get('/shop', function () {
+    return view('client.views.shop');
+});
+
+Route::get('/shop-detail', function () {
+    return view('client.views.shop_detail');
+});
+
+
 Route::get('/about-us', function () {
     return view('client.views.about_us');
 });
+
+
+Route::get('/cart', function () {
+    return view('client.views.cart');
+});
+
+Route::get('/check-out', function () {
+    return view('client.views.check_out');
+});
+
+Route::get('/error', function () {
+    return view('client.views.error');
+});
+
+Route::get('/wishlist', function () {
+    return view('client.views.wishlist');
+});
+
+
+
