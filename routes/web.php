@@ -58,5 +58,9 @@ Route::get('/wishlist', function () {
     return view('client.views.wishlist');
 });
 
+Route::get('/admin', function () {
+    return view('admin.views.home');
+});
+
 
 
